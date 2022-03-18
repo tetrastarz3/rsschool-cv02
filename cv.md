@@ -10,3 +10,21 @@
  * HTML
  * CSS
  * GIT
+  ## Code Example
+ ```
+ function truncate(str, maxlength) {
+  let newStr;
+  if (str.length > maxlength) {
+ newStr = str.slice(0, maxlength - 3) + "...";
+ return newStr;
+  }
+  return str;
+ }
+ ```
+ # Experience
+ None
+ ## Education
+ * **University:** Belorussian State Pedagogical University, managment in tourism
+ * **Courses:** The Rolling Scopes «JavaScript/Front-end. Stage 0»
+ ## English
+ A1 (I had been practicing English at school and at the university)
